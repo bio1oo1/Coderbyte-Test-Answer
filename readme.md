@@ -8,11 +8,9 @@ Another example if strArr is [aabdccdbcacd, aad] then the smallest substring of 
 
 #### Examples
 Input [ahffaksfajeeubsne, jefaa]
-
 Output aksfaje
 
 Input [aaffhkksemckelloe, fhea]
-
 Output affhkkse
 
 ## Array Challenge (LIS: Longest Increasing Subsequence)
@@ -22,9 +20,7 @@ Another example if strArr is [aabdccdbcacd, aad] then the smallest substring of 
 
 #### Examples
 Input: [9, 9, 4, 2]
-
 Output: 1
 
 Input: [10, 22, 9, 33, 21, 50, 41, 60, 22, 68, 90]
-
 Output: 7
